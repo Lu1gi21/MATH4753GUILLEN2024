@@ -11,3 +11,5 @@ LazyData: true
 RoxygenNote: 7.3.2
 Depends: 
     R (>= 2.10)
+URL: https://github.com/Lu1gi21/MATH4753GUILLEN2024
+BugReports: https://github.com/Lu1gi21/MATH4753GUILLEN2024/issues
