@@ -21,3 +21,7 @@ graph and table
 \description{
 mymaxlik
 }
+\examples{
+mymaxlik(lfun = function(x, mu) dnorm(x, mean = mu, sd = 1, log = TRUE),
+x = c(-1.2, 0.5, 1.1, 0.8, -0.7, 0.3), param = seq(-2, 2, length.out = 100))
+}
